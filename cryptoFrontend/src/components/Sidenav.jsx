@@ -1,8 +1,11 @@
 import React from 'react'
-
+import {Box} from "@chakra-ui/react"
 function Sidenav() {
   return (
-    <div>Sidenav</div>
+    <Box>
+        
+
+    </Box>
   )
 }
 
